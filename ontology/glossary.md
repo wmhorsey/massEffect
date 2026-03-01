@@ -28,9 +28,15 @@ The resistance of STE to bulk flow in a given region. Viscosity is a monotonical
 
 Any arbitrary or physical surface that separates two regions of STE. Across a boundary, STE on each side attracts STE on the other. The boundary is the locus where competing attraction vectors meet.
 
+### Tension
+
+The primary mechanical mode of STE attraction. Attraction between any two points in three-dimensional space produces a pull along the line connecting them — this is tension. Every parcel of STE is under tension toward every other parcel. Tension that can produce motion results in flow; tension that cannot resolve results in compression at the convergence point.
+
 ### Compression
 
-The state that results when mutual attraction across a boundary cannot produce bulk motion (because pull is symmetric or geometry forbids flow). Attraction that cannot move STE instead **pressurises** it. Compression increases concentration locally.
+The state that results when converging tension lines meet at a point or region and cannot produce net motion (because pull is symmetric from all directions or geometry forbids flow). Compression is accumulated, unresolved tension. It increases concentration and pressure locally.
+
+Compression is also what drives macro-scale motion. Every atom is a knot of stored tension. When two compressed structures encounter each other, their tension fields interact — each tries to pull the other in, but internal compression resists reorganisation, so the structures redirect each other. Every collision and mechanical force is compression meeting compression, mediated entirely by attraction.
 
 ### Choke
 

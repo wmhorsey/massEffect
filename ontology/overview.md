@@ -4,6 +4,8 @@
 
 The entirety of the observable universe is composed of one substance: **STE** — a finite, self-attracting potential fluid. There is nothing else. Every phenomenon we measure is STE behaving under its own single imperative viewed from a particular frame of reference.
 
+STE is not *modelled as* a fluid — it **is** the perfect fluid. It is what teaches fluids to behave. Every fluid dynamic we observe in matter (viscosity, convection, vortex shedding, pressure) is inherited from the substrate underneath. Water acts like a fluid because the STE it is made of acts like a fluid first.
+
 ## The Single Rule
 
 > **STE moves toward itself.**
@@ -32,13 +34,17 @@ Where STE is spread thinly, it flows freely toward nearby concentrations. This i
 
 ### 2. Concentration & Viscosity Gradient
 
-STE can collect into higher local concentrations. As concentration increases, viscosity increases. The relationship is monotonic: **more STE in a region → more viscous that region becomes**.
+STE can collect into higher local concentrations. As concentration increases, so does attraction, and thusly viscosity also increases. The relationship is monotonic: **more STE in a region → more viscous that region becomes**.
 
 This is not an additional rule. It is a direct consequence of mutual self-attraction: every parcel of STE in a concentrated region is being pulled toward every other parcel from all directions simultaneously. The competing pull vectors resist net motion — the fluid *stiffens*.
 
-### 3. Compression at Boundaries
+### 3. Tension and Compression
 
-Consider an arbitrary boundary surface inside a concentration. STE on both sides of the boundary is attracted to STE on the other side. When the geometry prevents bulk flow (the STE has nowhere to go because attraction pulls equally from all directions), the result is **compression**. Attraction that cannot produce motion produces pressure instead.
+Attraction between any two points is **tension** — a pull along the line connecting them. Consider an arbitrary boundary surface inside a concentration: STE on both sides is under tension toward the other side.
+
+When many tension lines converge on a region and the geometry prevents bulk flow (attraction pulls equally from all directions), the converging tension cannot produce net motion. The result at the convergence point is **compression** — tension that cannot resolve into motion accumulates as pressure instead.
+
+Compression doesn't just sit there. Every atom is a knot of stored, unresolved tension. When compressed structures meet, their tension fields interact — each tries to pull the other in, but the internal compression of each resists reorganisation. The result: the structures **redirect** each other. This is what gets the observable universe in motion. Every collision, every mechanical force, is compression meeting compression — stored tension rearranging through attraction alone.
 
 ### 4. The Full Spectrum
 

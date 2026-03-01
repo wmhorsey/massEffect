@@ -48,24 +48,28 @@ Logical consequences of the axioms, building from simple to complex.
 
 ---
 
-## D1 — Compression
+## D1 — Tension and Compression
 
 **From:** A1 (self-attraction), A2 (variable concentration), A3 (viscosity), A4 (observability)
 
-Consider a boundary surface inside a region of concentrated STE. STE on side A attracts STE on side B, and vice versa. If the geometry is such that bulk flow cannot resolve the attraction (e.g., attraction is roughly symmetric from all directions), then:
+Attraction between any two points in three-dimensional space produces **tension** — a pull along the line connecting them. This is the primary mechanical mode of attraction: every parcel of STE is under tension toward every other parcel.
 
-- Attraction that **can** produce motion → **flow** (STE moves toward itself). This is invisible (A4).
-- Attraction that **cannot** produce motion → **compression** (pressure increases, concentration increases further). This is where secondary effects begin.
+When many tension lines converge on a region and the STE there has nowhere further to go (attraction pulls equally from all directions), the converging tension cannot produce net motion. The result is **compression** at the convergence point — pressure and concentration increase.
 
-Compression is attraction's fallback mode — the first failure to collect, and the first thing we can detect.
+- Tension that **can** produce motion → **flow** (STE moves toward itself). This is invisible (A4).
+- Tension that **cannot** resolve (convergence, geometric lock) → **compression**. This is where secondary effects begin.
+
+Compression is what happens when tension lines pile up at a destination. It is attraction's fallback mode — the first failure to collect, and the first thing we can detect.
+
+But compression does not just sit there. Every compressed structure — every atom, every nucleus — is a knot of stored, unresolved tension. When two compressed structures encounter each other, their compression fields interact: the tension between them tries to pull them together, but the internal compression of each resists reorganisation. The structures **redirect** each other. This is what gets the universe in motion at the macro scale. Every collision, every mechanical force between atoms, is compression meeting compression — stored tension fields rearranging each other through attraction, never through any push.
 
 ---
 
 ## D2 — The Choke
 
-**From:** D1 (compression), A3 (viscosity)
+**From:** D1 (tension/compression), A3 (viscosity)
 
-As compression increases concentration, viscosity rises (A3). At sufficiently high concentration, localised depressions form and are enveloped by higher-strength surrounding flows. The enveloped parcel sheds from the coherent bulk flow, curling into a tight, self-referencing micro-vortex — a choke.
+As converging tension increases concentration, viscosity rises (A3). At sufficiently high concentration, localised depressions form and are enveloped by higher-strength surrounding flows. The enveloped parcel sheds from the coherent bulk flow, curling into a tight, self-referencing micro-vortex — a choke.
 
 A choke is a **low-energy depression**: it has lost translational coherence with the surrounding flow and is lesser-attracting than the active STE around it. Consequently:
 
