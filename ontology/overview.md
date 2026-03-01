@@ -175,7 +175,7 @@ Voids form when STE's self-attraction converges so intensely on a region that it
 
 This is scale-invariant:
 
-- **Up quarks** (void cores inside protons) are sub-femtometre cavities held open by the surrounding QGP-like shell.
+- **Up quarks** (void cores inside protons) are Planck-length cavities held open by the surrounding QGP-like shell.
 - **Black holes** are astronomical-scale cavities held open by the surrounding accretion structure of maximally compressed STE.
 
 The difference is size, not kind. In both cases the void itself contains nothing — no concentration, no flow, no attraction, no interaction. Everything we detect (gravitational lensing, attraction shadows, orbital geometry) comes from the **shell**, not the void. The void is invisible; the shell is what we measure.
@@ -186,9 +186,17 @@ This is the ultimate expression of A4 (observability is failure): attraction so 
 
 The difference between a choke (a depression — low STE, but not zero) and a void (absolute zero STE) is what gives rise to light.
 
-The shell wrapping a void is compressed to the **true maximum** — because it borders literal nothing. There is no gentler gradient; the contrast is total. This maximum-contrast boundary radiates: when disturbed, the extreme compression at the void/shell interface sheds irreconcilable tension outward as a propagating wave — a **photon**.
+The shell wrapping a void is compressed to the **true maximum** — because it borders literal nothing. There is no gentler gradient; the contrast is total. This maximum-contrast boundary is inherently unstable. When disturbed, the extreme compression sheds irreconcilable tension outward through the substrate.
 
-Light exists because the void forces its shell to absolute maximum compression, and that maximum has nowhere to relax to except outward, as radiation. Every photon traces back to a void/shell boundary event.
+Light is a **disturbance in the field tension itself** — it propagates inside the stress, not through a medium. Nothing actually moves from point to point; the tension pattern updates through a field that is already everywhere. This is why light is unrestricted.
+
+Light has three phases:
+
+- **Emission** — A disturbance at the void/shell boundary (Planck-length, deep inside the proton) propagates outward into the **electron cloud**. The electron swarm absorbs the compression wave and resists it — it cannot fully accommodate the tension, so it re-radiates. Emission is the electron cloud shedding tension it cannot hold.
+- **Travel** — The disturbance propagates within the STE field stress — not a particle in flight, not something moving through the substrate, but the stress itself updating. Every micro-vortex structure it encounters does the same thing: absorbs the compression, resists it, and re-emits — adding just a little of its own energy back. Bound electron clouds, free electrons, pre-particle clusters, lone chokes — they all relay the disturbance. Light propagates forever because nothing is actually moving; the field is already there and the stress pattern simply shifts, relayed by rotational structures at every scale.
+- **Capture** — When the disturbance hits a micro-vortex structure that absorbs without re-emitting — one that accommodates the tension instead of resisting — the wave terminates. This collapse event is the **photon**: the moment the disturbance is finally absorbed.
+
+Wave-particle duality resolves cleanly: the wave is a tension disturbance propagating within the field stress, relayed from structure to structure; the photon is the collapse that ends it. Light doesn't really move at all — only the disturbance pattern changes.
 
 ### How Black Holes Grow
 

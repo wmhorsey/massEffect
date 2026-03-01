@@ -145,16 +145,24 @@ Voids form when STE self-attraction converges so intensely that it evacuates the
 
 Cavitation is scale-invariant:
 
-- **Sub-femtometre** → up quark (void core inside a proton)
+- **Planck-length** → up quark (void core inside a proton)
 - **Astronomical** → black hole (void wrapped in accretion shell)
 
 The difference is size, not kind. The cavitation event compresses the surrounding shell to the **true maximum** — because it borders absolute zero, the contrast is total. This maximum-compression boundary is the origin of light.
 
 ### Light / Photon
 
-A propagating wave of tension radiated from a void/shell boundary. Light exists because the shell wrapping a void is at **absolute maximum compression** (it borders zero STE), and that extreme contrast has nowhere to relax except outward. When the void/shell interface is disturbed, the irreconcilable tension propagates through the substrate as a photon.
+Light is a **disturbance in the field tension itself**. It originates at void/shell boundaries (Planck-length, deep inside particles), where the shell is at **absolute maximum compression** (it borders zero STE) and the contrast is total. Nothing actually moves — the tension pattern updates through a field that is already everywhere. This is why light is unrestricted.
 
-Every photon traces back to a void/shell boundary event. Light is the substrate shedding tension it cannot hold.
+Every micro-vortex structure in the substrate — bound electron clouds, free electrons, pre-particle clusters, lone chokes — participates in light the same way: it absorbs the compression disturbance, resists it, and re-emits, adding just a little of its own energy back.
+
+Light has three distinct phases:
+
+- **Emission** — A void/shell disturbance propagates into the local **electron cloud**. The swarm absorbs the compression wave and resists it — unable to accommodate the tension, it re-radiates. Emission is the cloud shedding what it cannot hold.
+- **Travel (propagation within field stress)** — The disturbance propagates within the STE field stress — not through it, but *in* it. Every micro-vortex structure it encounters does the same thing: compress, resist, re-emit. Light propagates forever because nothing is actually moving; the field is already there and the stress pattern simply shifts, **relayed** by rotational structures at every scale.
+- **Capture (collapse event / photon)** — When the disturbance hits a structure that absorbs without re-emitting — one that accommodates the tension instead of resisting — the wave terminates. The photon is this collapse event: the moment of final absorption.
+
+Wave-particle duality: the wave is a tension disturbance propagating within the field stress, relayed from structure to structure; the photon is the collapse that ends it. Light doesn't really move — only the disturbance pattern changes.
 
 ### Black Hole Growth
 

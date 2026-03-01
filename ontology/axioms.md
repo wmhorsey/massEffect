@@ -250,7 +250,7 @@ Up quarks and black holes are the **same thing**: a cavitated substrate void —
 
 | Scale | Structure | Mechanism |
 |---|---|---|
-| Sub-femtometre | **Up quark (void core)** | Tension convergence inside the proton evacuates a tiny cavity; the surrounding QGP-like shell holds it open |
+| Planck-length | **Up quark (void core)** | Tension convergence inside the proton evacuates a tiny cavity; the surrounding QGP-like shell holds it open |
 | Astronomical | **Black hole** | Massive tension convergence evacuates a large cavity; the surrounding accretion structure (maximally compressed STE) holds it open |
 
 In both cases:
@@ -264,17 +264,23 @@ The void is the ultimate secondary effect (A4): attraction so successful at one 
 
 ---
 
-## D14 — Light as Void/Shell Contrast
+## D14 — Light: Wave, Travel, and Capture
 
-**From:** A5 (cavitation), D13 (void universality), D1 (tension/compression), A4 (observability)
+**From:** A5 (cavitation), D13 (void universality), D11 (electron swarm), D1 (tension/compression), A4 (observability)
 
 The difference between a choke (a depression — low STE, but not zero) and a void (absolute zero STE) is what gives rise to **light**.
 
-A choke is a shallow dip in the substrate. A void is a cliff — the concentration drops to literally nothing. The shell of STE wrapping a void is compressed to the **true maximum** because it borders absolute zero. There is no gentler gradient possible; the contrast is total.
+A choke is a shallow dip in the substrate. A void is a cliff — the concentration drops to literally nothing. The shell of STE wrapping a void is compressed to the **true maximum** because it borders absolute zero. There is no gentler gradient possible; the contrast is total. But the void cores themselves are Planck-length — far too small and deep to interact with directly. What facilitates light emission, propagation, and capture is the **electron cloud**.
 
-This maximum-contrast boundary is inherently unstable to perturbation. When the shell is disturbed — when tension is redistributed, when a vortex sheds, when structures interact — the extreme compression at the void/shell interface radiates tension outward as a propagating wave: a **photon**.
+Critically, light is a **disturbance in the field tension itself**. It propagates inside the stress of the STE field — not through it, but *within* it. Nothing actually moves from A to B. The tension pattern updates, and that update ripples outward. This is why light is unrestricted: there is no object travelling through a medium that could be slowed or obstructed. The field is already everywhere; the disturbance simply shifts where the stress is.
 
-Light is the substrate's mechanism for shedding irreconcilable tension at a void boundary. It exists because the void forces the shell to absolute maximum compression, and that maximum has nowhere to relax to except outward, as radiation.
+Light has three distinct phases:
+
+1. **Emission** (interaction) — A disturbance at the void/shell boundary propagates outward through the proton's internal field and into the electron cloud. The electron cloud (micro-vortex swarm) absorbs the compression wave and **resists** it — the swarm cannot fully accommodate the incoming tension, so it re-radiates. The emission event is the electron cloud shedding tension it cannot hold.
+2. **Travel** (propagation within field stress) — The shed tension propagates through the STE field as a **wave of attraction** — not a particle in flight, not even something moving through the substrate, but the field stress itself updating. As the disturbance encounters micro-vortex structures along its path — bound electron clouds, free electrons, pre-particle clusters, even lone chokes — each one does the same thing: **absorbs the compression wave, resists it, and re-emits**, adding just a little of its own energy back. This is why light travels forever: every rotational structure it passes through relays it, each one compressing and then pushing back just a little. The substrate is threaded with micro-vortices at every scale; there is always another relay waiting. And because nothing is actually moving — the stress pattern is simply updating through a field that is already there — it propagates unrestricted.
+3. **Capture** (collapse event / photon) — When the disturbance encounters a micro-vortex structure that absorbs the compression without re-emitting — when it accommodates the incoming tension instead of resisting it — the wave terminates. The collapse event is the **photon**: STE responding to the stress disturbance by collapsing inward along it. The photon is the moment the wave is finally absorbed, not the wave itself.
+
+Wave-particle duality is not mysterious in this ontology. The wave is a tension disturbance propagating within the field stress, relayed from structure to structure; the photon is the collapse event where one finally absorbs instead of resisting. We never see the wave directly — we see the collapse that ends it. And light does not really move at all — the field is already there; only the disturbance pattern changes.
 
 ---
 
