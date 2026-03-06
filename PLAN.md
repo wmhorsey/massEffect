@@ -70,6 +70,10 @@ Known caveats:
 ## Immediate Objective
 Move from "looks plausible" to "quantitatively defensible" via a diagnostics-first workflow.
 
+Current execution priority (time-boxed):
+- Run a focused 2-day "quantum ontology assassination" sprint on `physics-refine`.
+- Defer new `game-dev` implementation work until sprint conclusions are documented.
+
 ## Phase Plan
 
 ### Phase 1: Diagnostics Backbone (Priority)
@@ -200,9 +204,11 @@ For each physics change:
 ## Short-Term Next Actions
 1. `physics-refine`: commit and tag current diagnostics milestone.
 2. `physics-refine`: define confidence gates for merge to `main` (AR residual, STE drift, scale baseline).
-3. `game-dev`: write one-page MVP spec for story-driven chunk sandbox.
-4. `game-dev`: scaffold game architecture around a stable simulation adapter interface.
-5. `game-dev`: implement first publishable core loop using current stable metrics.
+3. `physics-refine`: execute 2-day STE tunneling benchmark sprint (pre-choke permeation vs stochastic baseline).
+4. `physics-refine`: publish sprint readout with pass/fail criteria, residuals, and ontology implications.
+5. `game-dev`: after sprint readout, write one-page MVP spec for story-driven chunk sandbox.
+6. `game-dev`: scaffold game architecture around a stable simulation adapter interface.
+7. `game-dev`: implement first publishable core loop using current stable metrics.
 
 ## Scope Recovery Checklist
 If context is compressed, resume in this order:
