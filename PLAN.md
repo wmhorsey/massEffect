@@ -10,6 +10,17 @@ Build a scale-invariant, collapse-first STE simulation where:
 - large structures interact through pre-contact saturation fronts,
 - behavior is explainable with derived relations rather than magic constants.
 
+## Direction Lock (Ontology First)
+- Primary thesis: ontological modeling is the next compute leap, not hardware alone.
+- Interpret "chance-like" behavior as emergent from deeper field relations unless diagnostics falsify it.
+- Treat light and mass as co-emergent symptoms of one substrate motivation.
+- Keep STE-native language and mechanisms as the source model; use mainstream terms only for comparison outputs.
+
+Near-term physics objective:
+- Formalize tunneling as pre-choke field permeation through saturation barriers.
+- Build a benchmark that compares STE transmission curves against stochastic baselines.
+- Promote only if predictive value and computational efficiency are demonstrated by diagnostics.
+
 ## Non-Negotiables
 - No unexplained magic numbers in governing physics.
 - Constants allowed only for:
@@ -132,6 +143,47 @@ Release policy:
 - Public builds default to stable gameplay mechanics.
 - Experimental physics mode is opt-in until diagnostics confidence gates are met.
 
+### Physics-Refine -> Main Confidence Gates (v1)
+All gates must pass on the same commit before merge:
+- AR residual gate:
+  - `max(abs(force_ar_residual)) <= 1e-6` over benchmark run.
+- STE drift gate:
+  - `abs(ste_total_drift_fraction) <= 1e-4` over benchmark run.
+- Convergence gate:
+  - `tests/convergence.rs` passes (`dt`, `dt/2`, `dt/4` harness).
+- Scale baseline gate:
+  - `tests/scale_invariance.rs` passes and normalized observables remain within configured tolerance.
+- Diagnostics integrity gate:
+  - `tests/diagnostics_artifacts.rs` and `tests/baseline_report.rs` both pass.
+
+Verification command (local):
+`cargo test --manifest-path engine/Cargo.toml --test convergence --test scale_invariance --test chirality --test diagnostics_artifacts --test baseline_report`
+
+Decision rule:
+- Any failed gate blocks merge and requires either:
+  - a targeted fix with unchanged ontology assumptions, or
+  - a documented ontology-level hypothesis update in commit notes.
+
+## Game Product Direction (Recorded)
+Primary product path:
+- Build a story-driven, mission-based sandbox first.
+- Use STE physics to generate local world behavior and event dynamics.
+- Keep simulation scope local/chunked for performance and production feasibility.
+
+Why this path:
+- Playability and ship speed are the priority.
+- Full voxel-world simulation at sand-grain scale is a later-stage effort.
+- Revenue and player feedback from a focused game can fund larger sandbox ambitions.
+
+Design intent:
+- Physics should shine through world behavior, not require players to learn equations.
+- Core loop should be understandable in player language (stability, pressure fronts, surge, collapse, extraction).
+
+Deferred scope (not MVP):
+- Infinite Minecraft-style voxel world.
+- Planet-scale fully simulated terrain.
+- Massive streaming/storage/netcode systems.
+
 ## Change Protocol (To Avoid Regressions)
 For each physics change:
 1. State hypothesis.
@@ -148,8 +200,9 @@ For each physics change:
 ## Short-Term Next Actions
 1. `physics-refine`: commit and tag current diagnostics milestone.
 2. `physics-refine`: define confidence gates for merge to `main` (AR residual, STE drift, scale baseline).
-3. `game-dev`: scaffold game architecture around a stable simulation adapter interface.
-4. `game-dev`: implement first publishable core loop using current stable metrics.
+3. `game-dev`: write one-page MVP spec for story-driven chunk sandbox.
+4. `game-dev`: scaffold game architecture around a stable simulation adapter interface.
+5. `game-dev`: implement first publishable core loop using current stable metrics.
 
 ## Scope Recovery Checklist
 If context is compressed, resume in this order:
@@ -159,3 +212,12 @@ If context is compressed, resume in this order:
 4. Run diagnostics baseline.
 5. Confirm branch roles (`physics-refine` vs `game-dev`) before coding.
 6. Continue from "Short-Term Next Actions" item 1.
+
+## Decompression Handoff
+When resuming after context compression, restate these six anchors first:
+1. Ontology-first is the primary direction.
+2. Physics work stays on `physics-refine`; gameplay work stays on `game-dev`.
+3. Diagnostics gate every physics merge (conservation, AR residual, convergence, scale baseline).
+4. Compound/chirality metrics are core observables (`pairs`, `dwell`, `pot`, `yield`, `chi`, `zc`, `lock`).
+5. Current product direction: story-driven chunk sandbox first; full voxel world deferred.
+6. Next research target: STE tunneling benchmark (pre-choke permeation model).
